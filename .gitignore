@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+metadata.readme
+COVID.DATA.LIC.AGMT.pdf
+json_schema.txt
